@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-# Site settings
+title: 向钱看            # 你的博客网站标题
+SEOTitle: 个人站			# 在后面会详细谈到
+description: "进阶产品狗是我"    # 随便说点，描述一下
+
+# SNS settings      
+github_username: mangmangaikobe     # 你的github账号
+
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
