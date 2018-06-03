@@ -1,5 +1,5 @@
 # Site settings
-title: Mang Blog
+title: 向钱看
 SEOTitle: 向钱看的博客 | Mang Blog
 header-img: img/home-bg.jpg
 email: wumangmang54@163.com
@@ -65,7 +65,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "请立即加油"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/C/Users/向钱看/Desktop/1.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 email: wumangmang54@163.com
 
 
