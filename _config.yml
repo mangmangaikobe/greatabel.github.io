@@ -65,7 +65,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "请立即加油"
-sidebar-avatar: /img/C/Users/向钱看/Desktop/1.png    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 email: wumangmang54@163.com
 
 
