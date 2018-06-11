@@ -58,7 +58,7 @@ tags:
 
 > 飞猪原有的发布界面
 
-![飞猪界面](/img/in-post/feizhu.png)
+![飞猪界面](/img/in-post/feizhu.PNG)
 
 > 改进后的原型图
 
