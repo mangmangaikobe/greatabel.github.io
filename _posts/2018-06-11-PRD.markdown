@@ -7,6 +7,7 @@ author:     "向钱看"
 header-img: "img/post-bg-android.jpg"
 tags:
     - 需求分析
+    - 文档撰写
 ---
 
 > 这篇文章主要总结面向开发的需求文档的大致框架。
