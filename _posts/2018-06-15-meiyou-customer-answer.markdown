@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "「用户体验」如何看待app美柚？"
-subtitle:   "恰有小感。"
+subtitle:   "模拟笔试。"
 date:       2018-06-15
 author:     "向钱看"
 header-img: "img/post-bg-kuaidi.jpg"
