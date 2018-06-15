@@ -12,7 +12,7 @@ tags:
 > 这篇文章是我总结的一个模拟笔试/面试答题思路。
 
 
-![1](/img/in-post/meiyou.png)
-![](/img/in-post/meiyous.png)
-![](/img/in-post/meiyoum.png)
-![](/img/in-post/meiyoul.png)
+![美柚一](/img/in-post/meiyou.png)
+![美柚二](/img/in-post/meiyous.png)
+![美柚三](/img/in-post/meiyoum.png)
+![美柚四](/img/in-post/meiyoul.png)
