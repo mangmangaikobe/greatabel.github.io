@@ -11,20 +11,8 @@ tags:
 
 > 这篇文章是我总结的一个模拟笔试/面试答题思路。
 
-<div>
-    
-    <br><b>为了对比修改部分与原文，直接贴图。</b>
-    <br>
-    <br>
-    <br>正文。
-    <br>
-    ![需求说明](/img/in-post/xuqiu.png)
-    <img class="shadow" src="/img/in-post/post-meiyou1.png" width="260">
-    <br>
-    <img class="shadow" src="/img/in-post/post-meiyou2.png" width="260">
-    <br>
-    <img class="shadow" src="/img/in-post/post-meiyou3.png" width="260">
-    <br>
-    <img class="shadow" src="/img/in-post/post-meiyou4.png" width="260">
-</div>
+![](/img/in-post/post-meiyou1.png)
 
+![](/img/in-post/post-meiyou2.png)
+![](/img/in-post/post-meiyou3.png)
+![](/img/in-post/post-meiyou4.png)
