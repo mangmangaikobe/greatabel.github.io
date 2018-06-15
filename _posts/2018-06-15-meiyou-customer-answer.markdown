@@ -10,9 +10,8 @@ tags:
 ---
 
 > 这篇文章是我总结的一个模拟笔试/面试答题思路。
-
-![](/img/in-post/post-meiyou1.png)
-
+![用户表](/img/in-post/yonghu.png)
+![](/img/in-post/post-meiyou.png)
 ![](/img/in-post/post-meiyou2.png)
 ![](/img/in-post/post-meiyou3.png)
 ![](/img/in-post/post-meiyou4.png)
