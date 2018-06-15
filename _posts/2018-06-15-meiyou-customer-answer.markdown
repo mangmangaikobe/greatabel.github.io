@@ -18,6 +18,7 @@ tags:
     <br>
     <br>正文。
     <br>
+    ![需求说明](/img/in-post/xuqiu.png)
     <img class="shadow" src="/img/in-post/post-meiyou1.png" width="260">
     <br>
     <img class="shadow" src="/img/in-post/post-meiyou2.png" width="260">
