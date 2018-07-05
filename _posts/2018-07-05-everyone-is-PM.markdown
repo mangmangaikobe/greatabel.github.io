@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "「书摘」人人都是产品经理？"
+title:      "「书摘」人人都是产品经理"
 date:       2018-07-05 12:00:00
 author:     "向钱看"
 header-img: "img/post-bg-rwd.jpg"
@@ -40,7 +40,7 @@ tags:
     </ul>
     <br>
     <br>
-    <br>
+    <br> 
     <ul>
        <li><b>如何把用户需求转换为产品需求？</b>
        </li>
