@@ -63,5 +63,5 @@ tags:
 **思考练习**
 
 *针对爱鲜蜂的迭代图*判断爱鲜蜂处在产品生命周期的哪个阶段
-![](/img/in-post/aixianfeng.jpeg)
-![](/img/in-post/aixianfengqa.jpeg)
+![](/img/in-post/aixianfeng.png)
+![](/img/in-post/aixianfengqa.png)
