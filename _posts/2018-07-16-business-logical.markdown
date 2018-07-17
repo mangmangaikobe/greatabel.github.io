@@ -7,7 +7,7 @@ header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
     - 业务流程
-    - 理论基础
+    - 产品设计
 ---
 
 > 梳理业务逻辑和业务流程之间的关系。
