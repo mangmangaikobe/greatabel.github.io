@@ -6,8 +6,8 @@ author:     "向钱看"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - 产品设计
-    - 笔试面试
+    - 需求分析
+    - 产品体验
 ---
 
 > 探讨产品的生命周期，并进行相应的练习。
