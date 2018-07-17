@@ -5,6 +5,7 @@ date:       2018-06-14 10:42:00
 author:     "向钱看"
 header-img: "img/post-bg-alibaba.jpg"
 tags:
+    - 需求分析
     - 功能调研
     - 文档撰写
 ---

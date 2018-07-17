@@ -6,7 +6,7 @@ date:       2018-06-15
 author:     "向钱看"
 header-img: "img/post-bg-kuaidi.jpg"
 tags:
-    - 笔试面试
+    - 产品体验
 ---
 
 > 这篇文章是我总结的一个模拟笔试/面试答题思路。

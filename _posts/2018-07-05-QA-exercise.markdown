@@ -6,7 +6,7 @@ author:     "向钱看"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - 笔试面试
+    - 产品体验
 ---
 
 > 总结一下对前段时间热点问题的思考，算是针对笔试面试的思维锻炼。

@@ -6,7 +6,7 @@ author:     "向钱看"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - 笔试面试
+    - 产品体验
 ---
 
 > 热点讨论思维练习。

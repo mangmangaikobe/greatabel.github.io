@@ -6,8 +6,8 @@ author:     "向钱看"
 header-img: "img/post-bg-digital-native.jpg"
 catalog: true
 tags:
-    - 产品设计
-    - 笔试面试
+    - 需求分析
+    - 产品体验
 ---
 
 > 探讨产品的生命周期，并进行相应的练习。
@@ -63,5 +63,5 @@ tags:
 **思考练习**
 
 *针对爱鲜蜂的迭代图*判断爱鲜蜂处在产品生命周期的哪个阶段
-![](/img/in-post/aixianfeng.jpeg)
-![](/img/in-post/aixianfengqa.jpeg)
+![](/img/in-post/aixianfeng.png)
+![](/img/in-post/aixianfengqa.png)
