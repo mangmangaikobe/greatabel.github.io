@@ -46,4 +46,5 @@ tags:
 ---
 **实践练习**
 <br>App*Enjoy*的咖啡和茶分类下的即时咖啡购买流程。
-![]()
+![](/img/in-post/enjoy.png)
+![](/img/in-post/aixianfengqa.png)
