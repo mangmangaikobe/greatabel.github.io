@@ -6,7 +6,7 @@ author:     "向钱看"
 header-img: "img/home-bg-o.jpg"
 tags:
     - 业务流程图
-    - 文档撰写
+    - 产品设计
 ---
 
 > 这篇文章总结我自己的业务流程图经验。
