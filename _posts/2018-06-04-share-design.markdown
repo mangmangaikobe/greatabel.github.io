@@ -7,7 +7,7 @@ header-img: "img/feizhu.jpg"
 catalog: true
 tags:
     - 原型设计
-    - 功能设计
+    - 产品设计
 ---
 
 > 最近在做飞猪的产品分析的复盘，分享下我自己做的原型设计。
