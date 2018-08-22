@@ -3,7 +3,7 @@ layout:     post
 title:      "飞猪旅行产品分析报告"
 date:       2018-08-20 
 author:     "向钱看"
-header-img: "img/feizhu.jpg"
+header-img: "img/alitrip.jpg"
 catalog: true
 tags:
     - 原型设计
@@ -46,7 +46,7 @@ tags:
 
 
 #### 1.2.2竞品选择
-![飞猪界面](/img/in-post/feizhu/1.PNG)
+![飞猪界面](/img/in-post/post-ali-travel/1.PNG)
 参考易观数据，按照平台型厂商的市场交易规模来看，最大的三个厂商为飞猪、去哪儿以及马蜂窝，飞猪旅行约占2017年在线度假旅游市场份额的28.7%，去哪儿占7.9%，马蜂窝占3.8%。
 
 本文选择去哪儿、马蜂窝作为竞品分析三者市场环境的差异来源。
